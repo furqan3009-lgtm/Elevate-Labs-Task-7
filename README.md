@@ -8,7 +8,7 @@ Use SQL inside Python to summarize sales performance and visualize key insights.
 ### Tools Used
 - MySQL
 - Python (mysql.connector, pandas, matplotlib)
-- Jupyter Notebook / VS Code
+- Jupyter Notebook
 
 ### Steps Performed
 1. Created a MySQL database `online_sales` and loaded the sales dataset.
@@ -26,5 +26,5 @@ Use SQL inside Python to summarize sales performance and visualize key insights.
 - How to plot SQL query results using Python.
 
 ### Output Example
-![Revenue by Region] 
+[Revenue by Region] 
 (revenue_by_region.png)
