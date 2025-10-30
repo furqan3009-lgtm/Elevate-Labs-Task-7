@@ -6,7 +6,7 @@
 Use SQL inside Python to summarize sales performance and visualize key insights.
 
 ### Tools Used
-- MySQL
+- MySQL 
 - Python (mysql.connector, pandas, matplotlib)
 - Jupyter Notebook
 
